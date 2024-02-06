@@ -1,4 +1,4 @@
-# Weather App
+<h1 align="center">Weather App</h1> 
 
 ## Description
 This is a simple weather application that allows users to check the weather for a specific city or get weather information based on their current location.
